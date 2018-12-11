@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar al D.r Domm
+* Investigar al Dr. Domm
+* Capturar a Red skull
